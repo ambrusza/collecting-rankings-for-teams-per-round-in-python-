@@ -1,3 +1,4 @@
+# I'll also write english comment later - 
 def first_step(a):       # legelső lépés (Ezt beépítem majd a fŐ_függvénybe)
     a = (a
     .assign(gól_arány=lambda df_:df_.HG-df_.AG)
