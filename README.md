@@ -1,7 +1,7 @@
 # collecting-rankings-for-teams-per-round-in-python-
 to bumpy 
 
-![Visitor Count](https://profile-counter.glitch.me/{ambrusza}/count.svg)
+![](https://komarev.com/ghpvc/?username=ambrusza&style=for-the-badge&color=green)
 
 Purpose: 
 
