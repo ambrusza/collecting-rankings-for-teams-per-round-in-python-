@@ -1,6 +1,8 @@
 # collecting-rankings-for-teams-per-round-in-python-
 to bumpy 
 
+![Visitor Count](https://profile-counter.glitch.me/{ambrusza}/count.svg)
+
 Purpose: 
 
 to create a bumpy chart in python
