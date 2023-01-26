@@ -15,6 +15,12 @@ you need the rankings of the teams in the different rounds - and you can only wo
     
 we did a tangled/confused kind and a simpler one
 
+Results -> 
+
+![Képernyőfotó 2023-01-26 - 21 42 25](https://user-images.githubusercontent.com/66861232/214946142-8d2e9884-22bc-41b7-90e7-e0cb8efc1eb6.png)
+
 
 
 ![Képernyőfotó 2023-01-26 - 21 41 10](https://user-images.githubusercontent.com/66861232/214945919-54a1bc47-1107-43bb-b1f2-72b16744dbb9.png)
+
+
